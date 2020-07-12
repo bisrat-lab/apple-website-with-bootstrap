@@ -1,0 +1,445 @@
+
+
+a {
+	color: #06c; 
+}
+img {
+	max-width: 100%;
+}
+.white {
+	color: #fff;
+}
+.black {
+	color: #1d1d1f;
+}
+.grey {
+	color: #86868b;
+}
+.top-50 {
+	margin-top: 50px;
+}
+/* Header Style */
+.nav-wrapper {
+  background: rgba(0,0,0,0.8);
+  font-size: 0.85em;
+  font-weight: 200;
+}
+.nav-wrapper ul li a {
+	color: #fff;
+}
+.navbar-toggler {
+	color: #fff;
+}
+.nav-item {
+	text-align: left !important;
+	padding: 4px 0;
+	border-bottom: 1px solid #4b4b4b;
+}
+
+/* Alert section */
+.alert-section {
+	text-align: center;
+	padding: 20px;
+}
+.alert-title {
+	font-weight: 600;
+	color: #1d1d1f;
+	padding: 10px;
+}
+.alert-text {
+	max-width: 90%;
+	margin: 0 auto;
+}
+
+
+/*ipad Pro section*/
+
+.ipad-pro-container{
+	background-image: url("../images/home/ipodPronew-sm.jpg");
+	height: 580px;
+	background-position: bottom;
+	background-repeat: no-repeat;
+  background-size: initial;
+  background-color: #fbfbfd;
+	text-align: center;
+	padding: 65px 20px;
+	color: #fff;	
+	margin-bottom: 10px;
+}
+.new-alert1 {
+		color: #BF4801;
+		font-size: 18px;
+	}	
+.links-wrapper ul {
+	list-style: none;
+}
+
+
+.product-title {
+	font-weight: 700;
+	font-size: 56px;
+}
+.title-description {
+	font-size: 2em;
+}
+.title-description .white{
+	
+	font-size: 2px;
+}
+.links-wrapper {
+	padding: 15px 0;
+}
+.links-wrapper ul li {
+	display: inline-block;
+	padding-right: 20px;
+}
+.links-wrapper ul li a {
+	color: #06c;
+	text-decoration: none;
+	font-size: 21px;
+}
+.links-wrapper ul li a:hover {
+	text-decoration: underline;
+}
+.links-wrapper ul li a:after {
+  font-family: "FontAwesome";
+  font-weight: 900;
+  content: "\f105";
+  padding-left: 10px;
+}
+.product-title {
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 1.15em;
+  letter-spacing: -0.04em;
+}
+.product-title.bold {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 1.15em;
+  letter-spacing: -0.04em;
+}
+.right-side-wrapper .title-wraper {
+	max-width: 280px;
+	margin: 0 auto;
+} 
+.title-description {
+	font-size: 24px;
+	padding: 10px 0;
+}
+.ipod-caption {
+	color: #86868b;
+	font-size: 12px;
+  line-height: 1.33337;
+  font-weight: 400;
+  letter-spacing: -.01em;		
+  padding-top: 310px;
+}
+
+/*MacBook Air Section*/
+.macbook-air-container{
+	background-image: url("../images/home/macbookair-new-sm.jpg");
+	background-position:bottom;
+	background-repeat: no-repeat;
+	height: 580px;
+	text-align: center;
+	background-size: initial;
+	padding: 65px 20px;
+	background-color: #fbfbfd;
+	margin-bottom: 10px;
+}
+/*iPhone 11 Pro Section*/
+.iphone11-pro-container{
+	background-image: url("../images/home/iphone11-pro-sm.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 580px;
+	text-align: center;
+	background-color: #fbfbfd;
+	padding: 65px 20px;
+}
+/*<!-- iphone 11 AND COVID section  -->*/
+
+.iphone11-and-covid-container .left-side-wrapper .left-container{
+	background-image: url("../images/home/iphone11-full.jpg");
+	background-color: #000;
+	background-size: cover;
+	padding-top: 35px;
+	margin: 0 0 10px 0;
+}
+.iphone11-and-covid-container .right-side-wrapper .right-container{
+	background-image: url("../images/home/apple-blue-logo.jpg");
+	background-color: #165ca9;
+	background-position: bottom;
+	padding-top: 35px;
+	margin: 0 0px 10px 0;
+	background-size: auto;
+}
+.iphone11-and-covid-container .right-side-wrapper .product-title{
+	max-width: 380px;
+}
+.left-container{
+	min-height: 515px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+.right-container{
+	min-height: 515px;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+.left-side-wrapper{
+	padding-right: 0px;
+	padding-left: 0px
+}
+.right-side-wrapper{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.right-side-wrapper .product-title {
+	max-width: 280px;
+	margin: 0 auto;
+} 
+
+.links-wrapper-ehite ul li a{
+	text-decoration: none;
+	color: #fff;
+}
+/*<!-- Apple tv and Apple Watch Section -->*/
+.appletv-and-watch-container .left-side-wrapper .left-container{
+	background-image: url("../images/home/appletv-oprah-md.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding-top: 35px;
+	margin: 0 0 10px 0;
+}
+.watch-more-container{
+	padding: 340px 0 0px;
+}
+.watch-more-container a{
+	text-decoration: none;
+	color: #000;
+}
+.watch-more-container a:hover{
+	color: #000;
+}
+.appletv-and-watch-container .right-side-wrapper .right-container{
+	background-image: url("../images/home/watch.jpg");
+	/*background-repeat: no-repeat;*/
+	background-color: #fbfbfd;
+	padding-top: 35px;
+	background-position: bottom;
+	background-size: auto;
+	margin: 0 0 10px 0;
+}
+.right-side-wrapper .title-description{
+	font-size: 20px;
+}
+.links-wrapper.white li a {
+	color: #fff;
+}
+
+/*Apple Game and Apple Card Style*/
+
+.apple-game-and-apple-card-container .left-side-wrapper .left-container{
+		background-image: url("../images/home/arcon-sm.jpg");
+		background-repeat: no-repeat;
+		background-position: center;
+		padding-top: 35px;
+	}
+.apple-game-and-apple-card-container .right-side-wrapper .right-container{
+	background-image: url("../images/home/card-sm.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-top: 35px;
+}
+.apple-game-and-apple-card-container .links-wrapper{
+	max-width: 400px;
+	margin: 0 auto;
+	padding-top: 5px;
+}
+.apple-game-and-apple-card-container .title-description{
+	max-width: 350px;
+	margin: 7px auto;
+	padding-top: 4px;
+}
+
+/*Footer Style*/
+.footer-container{
+	background-color: #f5f5f7;
+	color: #86868b;
+	font-size: .8em;
+}
+.footer-container ul{
+	list-style: none;
+	padding-bottom: 10px;
+	padding-inline-start: 0px;
+}
+.footer-container h3{
+	font-size: 12px;
+	font-weight: 600;
+	color: #1d1d1f;
+}
+.footer-container ul a{
+	color: #515154;
+}
+/*double line spacing*/
+.footer-container ul li{   
+	padding: 4px 0;
+}
+.upper-text-container {
+	border-bottom: 1px solid #d2d2d7;
+	padding: 17px 0 10px;
+	margin-bottom: 20px;
+}
+.upper-text-container a{
+	color: #515154;
+}
+.upper-text-container a:hover{
+	color: #515154;
+}
+.my-apple{
+	padding-bottom: 15px;
+	margin-top: 10px;
+}
+
+.flag-wrapper {
+	display: inline-block;
+	vertical-align: middle;
+	padding-right: 5px;
+}
+.footer-country-name{
+	display: inline-block;
+	vertical-align: middle;
+}
+.footer-links-terms ul{
+	display: flex;
+}
+.footer-links-terms ul li{
+	padding: 0 10px;
+	border-right: 1px solid #d2d2d7;
+}
+.footer-links-terms ul li:first-child {
+	padding-left: 0;
+}
+.footer-links-terms ul li:last-child {
+	border-right: 0;
+}
+
+.size {
+	color: #BF4801;
+	display: flex;
+		/* display:block;  */
+}
+
+/*Media Query*/
+/*Footer*/
+@media( max-width: 768px){
+	.footer-links-container ul{
+		display: none; 
+	
+		
+	}
+	.footer-links-container h3{
+		padding: 10px 0;
+		border-bottom: 0.5px solid #ccc;
+	}
+	
+}
+
+@media (min-width: 768px) {
+	/*Nav bar*/
+	.nav-item {
+		text-align: center !important;
+		padding: 0;
+		border-bottom: 0px;
+	}
+	/*iPod Pro Desplay Section*/
+	.ipad-pro-container {
+		background-image: url("../images/home/ipodPronew.jpg");
+		min-height: 692px;
+	}	
+	.ipod-caption {
+	  padding-top: 450px;
+	}
+	/*/*Macbook Air Desplay Section*/
+	.macbook-air-container{
+		background-image: url("../images/home/macbookair-new.jpg");
+		min-height: 692px;
+	}
+	/*iPhone11 Pro desplay Section*/
+	.iphone11-pro-container{
+		background-image: url("../images/home/iphone11-pro-bg.jpg");
+		min-height: 692px;
+	}
+	/*iphone 11 AND COVID section*/
+	.iphone11-and-covid-container .left-side-wrapper .left-container{
+	background-image: url("../images/home/iphone11-colored.jpg");
+	/*min-height: 515px;*/
+
+	}
+	.iphone11-and-covid-container .left-side-wrapper .left-container {
+	/* margin: 10px 5px 5px 10px;*/
+	margin-top: 10px;
+	margin-right: -20px;
+	margin-left:-5px;
+	margin-bottom: 5px;
+	}
+	.iphone11-and-covid-container .right-side-wrapper .right-container {
+	    margin: 10px -10px 5px 5px;
+	}		
+	/*Apple tv and Apple Watch Section*/
+	.appletv-and-watch-container .left-side-wrapper .left-container{
+		background-image: url("../images/home/appletv-oprah-bg.jpg");
+		margin-top: 5px;
+		margin-right: -20px;
+		margin-left:10px;
+		margin-bottom: 5px; 
+	}
+	.appletv-and-watch-container .right-side-wrapper .right-container {
+	    margin: 5px 10px 5px 5px;
+	}
+	/*Apple Game and Apple Card Section*/
+
+.apple-game-and-apple-card-container .left-side-wrapper .left-container{
+	background-image: url("../images/home/Arcon-lg.jpg");
+	margin-top: 5px;
+	margin-right: -20px;
+	margin-left: 10px; 
+	margin-bottom: 5px;
+}
+.apple-game-and-apple-card-container .right-side-wrapper .right-container{
+	background-image: url("../images/home/card-lg.jpg");
+	margin-top: 5px;
+	margin-right: 10px;
+	margin-left: 5px; 
+	margin-bottom: 5px;
+	
+}
+.apple-game-and-apple-card-container .links-wrapper ul li a{
+	font-size: 18px;
+}
+.apple-game-and-apple-card-container .links-wrapper ul li{
+	margin-top: -40px;
+}
+	/*Alert section*/
+	.alert-text {
+		max-width: 85%;
+		margin: 0 auto;
+	}
+	
+	/*iPod Pro section*/
+	.product-title .bold {
+	  font-size: 56px;
+	}		
+}
+
+
+
+	
