@@ -24,7 +24,7 @@ Project is created with:
 
 	
 ## Setup
-To run this project, index.html
+To run this project, front-page.html
 
 ## Copyright © 2020 
 **By Bisrat Tegegne**
